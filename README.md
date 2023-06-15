@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huuhoang2000&label=Profile%20views&color=0e75b6&style=flat" alt="huuhoang2000" /> </p>
 
-- 🌱 I’m currently learning **REACT, ANGULAR**
+- 🌱 I’m currently working on **The Odin's Project**
 
 - 📫 How to reach me **chinhhuu2000@gmail.com**
 
